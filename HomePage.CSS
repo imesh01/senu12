@@ -1,0 +1,77 @@
+
+  
+body{
+  background-image: url("background image/wood-background-texture-free-vector.jpg");
+}
+   
+
+
+.welcomeh1{
+    color: rgb(219, 16, 16);
+    text-align: center;
+    font-size:280%;
+    background-color: rgb(213, 203, 203);
+    width: 80%;
+    border-radius: 60%;
+    border: center;
+
+}
+
+.overview{
+    text-align: center;
+    color: rgb(4, 2, 16);
+     font-style: italic;
+     font-size:120%;
+     background-color: hsla(0, 5%, 96%, 0.84);
+     padding: 15px 15px;
+    
+    
+     
+     
+}
+
+.buttonset .button1{
+   
+    background-color: rgb(197, 60, 81);
+    border: none;
+    padding: 15px 100px; 
+    border-radius: 10px;
+    display:inline-block ;
+    letter-spacing: 1px;
+    font-size: 1.1rem;
+    font-weight: 400;
+    border: 2px solid transparent;
+    transition: ease .20s;
+    cursor: pointer;
+}
+ .buttonset .button1:hover{
+   background-color: rgb(181, 75, 121);
+    
+ }
+
+
+  .imgset1{
+    width: 35%;
+
+  }
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

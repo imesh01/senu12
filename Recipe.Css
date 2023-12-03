@@ -1,0 +1,21 @@
+.buttonset .button1{
+   
+    background-color: rgb(197, 202, 203);
+    border: none;
+    padding: 20px 120px; 
+    border-radius: 10px;
+    display:inline-block ;
+    letter-spacing: 1px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    border: 2px solid transparent;
+    transition: ease .20s;
+    cursor: pointer;
+}
+ .buttonset .button1:hover{
+   background-color: aqua;
+    
+ }
+ body{
+  background-image: url("../background image/abstractdesktop-astounding-wood-background-wallpaper-backgrounds (1).jpg");
+}
